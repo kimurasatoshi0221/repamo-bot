@@ -1,0 +1,4 @@
+/api/*
+  Cache-Control: no-store
+/img_*/*
+  Cache-Control: public, max-age=86400
